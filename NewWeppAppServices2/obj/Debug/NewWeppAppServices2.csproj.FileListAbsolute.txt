@@ -1,0 +1,777 @@
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\بروجكت\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.InitialCreate.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.AddCol.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.AddCategoryTable.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.AddServeTable.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.AddServe.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.AddServe1.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.CreateServer.resources
+C:\Users\Copy Center\Desktop\ITI Project\GitHup Project\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.editcat.resources
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.createDB.resources
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.EditRegister.resources
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.EditRegister1.resources
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.eww.resources
+E:\GITI\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.Createdb.resources
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\Copy Center\Desktop\GitHup\NewWebServicesApp2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.new_dropUserType.resources
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\UNLIMITED\Desktop\ProjV2\NewWebServicesApp2\NewWebServicesApp2\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll.config
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\NewWeppAppServices2.pdb
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.exe.config
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csc.rsp
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.exe.config
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\csi.rsp
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.AppContext.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Console.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Http.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.ValueTuple.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.exe.config
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\vbc.rsp
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Owin.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\WebGrease.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\EntityFramework.SqlServer.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Helpers.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Mvc.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Optimization.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.Razor.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\System.Web.WebPages.Razor.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Newtonsoft.Json.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Antlr3.Runtime.pdb
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.Migrations.new_dropUserType.resources
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.GenerateResource.cache
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CoreCompileInputs.cache
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csproj.CopyComplete
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.dll
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.pdb
+C:\Users\UNLIMITED\Desktop\git2\Fe_Elkhedma_WebAppService\Fe_Elkhedma_WebAppService\NewWeppAppServices2\NewWeppAppServices2\obj\Debug\NewWeppAppServices2.csprojAssemblyReference.cache

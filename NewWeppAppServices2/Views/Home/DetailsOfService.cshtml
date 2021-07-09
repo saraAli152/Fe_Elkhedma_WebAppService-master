@@ -1,0 +1,46 @@
+﻿@model NewWeppAppServices2.Models.ApplyForService
+@{
+    ViewBag.Title = "DetailsOfService";
+    Layout = "~/Views/Shared/_MainLayoutPage.cshtml";
+}
+
+<h2>DetailsOfService</h2>
+
+
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.serve.ServeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.serve.ServeName)
+        </dd>
+
+
+        <dt>
+            نص الرسالة
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Message)
+        </dd>
+
+        <dt>
+            تاريخ الإرسال
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApplyDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }) 
+    @Html.ActionLink("العودة إلى قائمة الخدمات", "GetServiceByUser", "", htmlAttributes: new { @class = "btn btn-default" })
+</p>
+

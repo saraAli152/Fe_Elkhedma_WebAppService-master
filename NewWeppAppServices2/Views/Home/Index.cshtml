@@ -1,0 +1,37 @@
+﻿@model IEnumerable<NewWeppAppServices2.Models.Category>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@*<div class="jumbotron">
+    
+    <p class="alert alert-info" style="text-align:center; border-radius:10px;" > مرحبا بك في فضاءالبحث عن الخدمات المجانية او المدفوعة يمكنك تقديم خدمة او طلب خدمة </p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">المزيد من التفاصيل&raquo;</a></p>
+</div>*@
+
+@foreach (var item in Model) ///جبنا الكاتيجوري مجانية ومدفوعه
+{
+    <div class="panel panel-default" style="padding:15px; border-radius:20px;">
+    <h2 class="panel-heading" style="border-radius:20px; text-align:center; color:orange">@Html.DisplayFor(modelItem => item.CategoryName)</h2>
+    <h5 style="color:blue; font-size:20px;">@Html.DisplayFor(modelItem => item.CategoryDescription)</h5>
+    <div class="row">
+        @foreach (var subItem in item.Serves)
+        {
+        <div class="col-md-3 thumbnail" style="height:250px; margin-left:5px; border-radius:20px">
+            <img src="~/Uploads/@subItem.ServeImage" style="width:100px; height:100px; border-radius:20%;"/>
+            <h4>@Html.DisplayFor(modelItem => subItem.ServeName)</h4>
+            <h5>@Html.DisplayFor(modelItem => subItem.ServeContent)</h5>
+            @Html.ActionLink("التفاصيل", "Details", new { serviceId = subItem.Id }
+           ,new { @class= "btn btn-primary" })
+        </div>
+        }
+
+
+
+
+
+
+    </div>
+    </div>
+}

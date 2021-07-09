@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @*<meta name="viewport" content="width=device-width,initial scale=1" />*@
+    <title>@Page.Title</title>
+    <link href="~/Content/content2/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/content2/style.css" rel="stylesheet" />
+    @RenderSection("style", required: false)
+    
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-default navbar-fixed-top" style=" background-color: black;">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="~/Home" class="navbar-brand">
+                <a href="~/Home/IndexOfIndex" class="navbar-brand">
+
+                    <img src="~/images/5.png" class="logo-size" />
+
+                </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="~/Home/index">
+                            
+                            الرئيسية
+                        </a>
+                    </li>
+
+
+
+                    <li>
+                        <a href="~/Home/About">
+                          
+                            حول الموقع
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="~/Home/Contact">
+                          
+                            اتصل بنا
+                        </a>
+                    </li>
+
+                    <li>
+                            @using (Html.BeginForm("Search", "Home", FormMethod.Post))
+                            {
+                                <input type="text" name="searchName" id="searchName"
+                                       placeholder="ابحث هنا.." />
+                            }
+
+
+                        </li>
+                </ul>
+
+
+                Partial Login
+                @Html.Partial("_Login")
+
+            </div>
+
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row" style="min-height:550px;">
+
+            @RenderBody()
+
+        </div>
+    </div>
+
+
+    <!--Footer-->
+    @*<footer class="myfooter" style="background-color:white;">*@
+        @*<div class="container">
+            <div class="row">
+                <div class="col-md-6" style="text-align:right;">
+                    <h3>
+                        <i class="glyphicon glyphicon-question-sign"></i>
+                        من نحن؟
+                    </h3>
+                    <p>
+                        <b >فريق في الخدمة</b>
+                        نحن نعمل بجد لمساعدة الآخرين في الوصول إلى كل مايريدونه من
+                        خدمات مقدّمة من أشخاص قادرين على مساعدة غيرهم وذلك في عملية
+                        تعاونية مع كل المشتركين بالموقع لجعل مجتمعنا في ترابط وتقدم دائم
+                        
+
+                    </p>
+                </div>
+
+                <div class="col-md-6" style="text-align:left;">
+                    <h3>
+                        <i class="glyphicon glyphicon-globe"></i>
+                        روابط هامة
+                    </h3>
+                    <ul>
+                        <li><a href="#">وظائف للقطاع العام</a></li>
+                        <li><a href="#">وظائف للقطاع الخاص</a></li>
+                        <li><a href="#">وظائف خارج البلاد</a></li>
+                        <li><a href="#">وظائف متنوعة</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    <h3>
+                        <i class="glyphicon glyphicon-envelope"></i>
+                        تواصل معنا
+                    </h3>
+                    <ul>
+                        <li><a href="https://www.facebook.com/%D9%81%D9%89-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-110125627413811/?modal=admin_todo_tour">Facebook</a></li>
+                        <li><a href="https://twitter.com/Felkhedma1">Twitter</a></li>
+                        <li><a href="http://www.Whatsaap.com">Whatsapp</a></li>
+                        <li><a href="https://www.instagram.com/fkhedma/">Instgram</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>*@
+
+
+
+
+
+        <div class="subfooter" style=" background-color:black;">
+            <span>جميع الحقوق محفوظة لموقع في الخدمة - 2020</span>
+        </div>
+    @*</footer>*@
+
+
+    <script src="~/Scripts/Scripts2/jquery.js"></script>
+
+    <script src="~/Scripts/Scripts2/bootstrap.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

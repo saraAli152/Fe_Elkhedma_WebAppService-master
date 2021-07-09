@@ -1,0 +1,56 @@
+﻿
+
+@model IEnumerable<NewWeppAppServices2.Models.ApplyForService>
+
+@{
+    ViewBag.Title = "GetServiceByUser";
+    Layout = "~/Views/Shared/_MainLayoutPage.cshtml";
+}
+
+<h2>جميع الخدمات التي قمت بطلبها</h2>
+
+<table class="table table-striped table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.serve.ServeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Message)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApplyDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tmp)
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.serve.ServeName)
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Message)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ApplyDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.tmp)
+    </td>
+    
+    <td>
+        @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("تفاصيل", "DetailsOfService"@*"DetailsOfJob"*@, new { id = item.Id }) |
+        @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+    </td>
+</tr>
+    }
+
+</table>

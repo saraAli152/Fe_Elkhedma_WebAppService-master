@@ -1,0 +1,39 @@
+﻿@model IEnumerable<NewWeppAppServices2.Models.Category>
+
+@{
+    ViewBag.Title = "قائمة أنواع الوظائف:";
+}
+
+    <h2 style="margin-right:5%">قائمة أنواع الخدمات</h2>
+
+<p style="margin-right:5%; font-size:26px" >
+    @Html.ActionLink("إنشاء نوع جديد", "Create")
+</p>
+<table class="table" style="text-align:center; width:100%; height:300px; font-size:27px">
+    <tr style="border:2px solid orange;">
+        <th >
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryDescription)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryDescription)
+        </td>
+        <td >
+            @Html.ActionLink("تعديل", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("تفاصيل", "Details", new { id=item.Id }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

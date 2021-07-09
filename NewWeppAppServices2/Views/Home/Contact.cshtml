@@ -1,0 +1,158 @@
+﻿@model NewWeppAppServices2.Models.ContactModel
+
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_MainLayoutPage.cshtml";
+}
+
+@*<h2 style="padding:50px; ">
+<i class="glyphicon glyphicon-envelope"></i>
+    تواصل معنا على :</h2>*@
+    
+
+@*@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Subject, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Subject, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Subject, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Message, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.Message, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Message, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="ارسال" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>*@
+
+@section style{
+    <style>
+
+        .container .map {
+            width: 45%;
+            float: left;
+        }
+
+        .container .contact-form {
+            width: 53%;
+            margin-left: 2%;
+            float: left;
+        }
+
+            .container .contact-form .title {
+                font-size: 2.5em;
+                font-family: "Roboto", sans-serif;
+                font-weight: 700;
+                color: #242424;
+                margin: 5% 8%;
+            }
+
+            .container .contact-form .subtitle {
+                font-size: 1.2em;
+                font-weight: 400;
+                margin: 0 4% 5% 8%;
+            }
+
+            .container .contact-form input,
+            .container .contact-form textarea {
+                width: 330px;
+                padding: 3%;
+                margin: 2% 8%;
+                color: #242424;
+                border: 1px solid #B7B7B7;
+            }
+
+                .container .contact-form input::placeholder,
+                .container .contact-form textarea::placeholder {
+                    color: #242424;
+                }
+
+            .container .contact-form .btn-send {
+                background: #A383C9;
+                width: 180px;
+                height: 60px;
+                color: #FFFFFF;
+                font-weight: 700;
+                margin: 2% 8%;
+                border: none;
+            }
+    </style>
+}
+
+@*<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>*@
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container">
+    <div class="map">
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3433.5504179258205!2d32.27876838594585!3d30.61844179818518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f85979d51b4dd1%3A0x41a0e589ad630385!2z2KfZhNil2LPZhdin2LnZitmE2YrYqdiMINin2YTYtNmK2K4g2LLYp9mK2K_YjCDYp9mE2KXYs9mF2KfYudmK2YTZitip!5e0!3m2!1sar!2seg!4v1592749830972!5m2!1sar!2seg" width="100%" height="650px" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+    </div>
+    @*<div class="contact-form">
+            <h3 >نحن دائما هنا لخدمتك</h3>
+            <h2 class="subtitle">We are here assist you.</h2>
+            <form action="">
+                <input type="text" name="name" placeholder="إسمك" />
+                <input type="email" name="e-mail" placeholder="بريدك الإلكتروني" />
+                <input type="tel" name="phone" placeholder="رقم الهاتف المحمول" />
+                <textarea name="text" id="" rows="8" placeholder="الرسالة"></textarea>
+                <input type="button" class=" btn" style="background-color:orange; color:white" value="ارسل"></input>
+            </form>
+        </div>*@
+    @*<h3>نحن دائما هنا لخدمتك</h3>*@
+<ul>
+    <h2  style="margin-right:-300px; ">
+        <i class="glyphicon glyphicon-envelope"></i>
+        تواصل معنا  
+    </h2><br /><br />
+
+    <li><a href="https://www.facebook.com/%D9%81%D9%89-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-110125627413811/?modal=admin_todo_tour"> <img src="~/images/f.jpeg" style="width:82px; height:80px; border-radius:20px" /></a></li>
+    <br />
+    <li><a href="https://twitter.com/Felkhedma1"> <img src="~/images/t.jpeg" style="width:82px; height:80px; border-radius:20px" /> </a></li>
+    <br />
+    <li><a href="https://www.instagram.com/fkhedma/"> <img src="~/images/in.jpeg" style="width:86px; border-radius:20px; margin-right:-5px" /></a></li>
+    <br />
+    <li><a href="http://www.Youtupe.com"> <img src="~/images/y.jpeg" style="width:81px; height:80px; height:80px;  border-radius:20px; margin-right:-5px" /></a></li>
+    <br />
+</ul>
+</div>
+

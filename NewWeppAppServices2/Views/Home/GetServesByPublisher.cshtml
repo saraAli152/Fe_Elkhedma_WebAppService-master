@@ -1,0 +1,42 @@
+﻿@model IEnumerable<NewWeppAppServices2.Models.ServeViewModel>
+
+@foreach (var gr in Model)
+{
+    <h3>@gr.ServeTitle</h3> 
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>
+                اسم الباحث
+            </th>
+            <th>
+                نص الرسالة
+            </th>
+            <th>
+                تاريخ الإرسال
+            </th>
+            <th>
+                طريقة التواصل
+            </th>
+        </tr>
+        @foreach (var item in gr.Items) // ده من نوع ابلاي فور سيرقيس
+        {
+            <tr>
+                <td>
+                    @item.user.UserName
+                </td>
+                <td>
+                    @item.Message
+                </td>
+                <td>
+                    @item.ApplyDate
+                </td>
+               <td>
+                   @item.tmp
+               </td>
+               
+              
+            </tr>
+        }
+    </table>
+}
+

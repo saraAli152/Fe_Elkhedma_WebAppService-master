@@ -1,0 +1,128 @@
+﻿
+@using Microsoft.AspNet.Identity
+@using NewWeppAppServices2.Models
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoff", @class = "navbar-right" }))
+    {
+        var db = new ApplicationDbContext();
+        var UserID = User.Identity.GetUserId();
+        var CurrentUser = db.Users.Where(a => a.Id == UserID).SingleOrDefault();
+        @Html.AntiForgeryToken()
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                 
+                    <strong>مرحبا بك @CurrentUser.UserName</strong>
+                  
+                </a>
+                <ul class="dropdown-menu ">
+                    <li>
+                        <div class="navbar-user">
+                            <div class="row">
+                                @*<div class="col-lg-4">
+                                    <p class="text-center">
+                                        <span class="glyphicon glyphicon-user img-size"></span>
+                                    </p>
+                                </div>*@
+                                <div class="col-lg-9" style="position:relative; right: 40px; top: 15px; height:200px">
+                                    @*<p class="text-right">
+            <strong>
+                @CurrentUser.UserName
+            </strong>
+        </p>*@
+                                    @*@if (CurrentUser.UserType == "مقدم خدمة")
+        {
+            <a href="~/Home/GetServesByPublisher" class="btn btn-success">الخدمات التي قمت بنشرها</a>
+            <a href="~/Serves/Create" class="btn btn-success">نشر خدمة جديدة</a>
+        }
+        else
+        {
+            <a href="~/Home/GetServiceByUser" class="btn btn-success btn-block">الخدمات التي تقدمت إليها</a>
+        }
+        <a href="~/Account/EditProfile" class="btn btn-primary btn-block">تعديل الحساب</a>*@
+
+
+                                    @if (CurrentUser.UserName == "Admin")
+                                    {
+                                        <a href="~/Categories/index" class="orangetext btn btn-default btn-block"  style="border-radius:20px;" @*style="background-color: #694294;"*@>  إدارة أنواع الخدمات@*اضافة صنف خدمات جديد مجانية،مدفوعة*@</a>
+                                        <a href="~/serves/index" class="orangetext btn btn-default btn-block"  style="border-radius:20px;" @*style="background-color: #694294;"*@>  إدارة الخدمات@*اضافة صنف خدمات جديد مجانية،مدفوعة*@</a>
+
+                                        @*<a href="~/roles/index" class="btn btn-success btn-block"> Add Roleاضافة صنف مستخدمين رول طالب خدمة ، مقدم خدمة</a>*@
+                                        @*<a href="~/Serves/Index" class="btn btn-success btn-block" ">اضافة خدمة جديدة</a>*@
+                                        <a href="~/Account/EditProfile" class="btn btn-primary btn-block"  style="border-radius:20px;">تعديل الحساب</a>
+
+                                    }
+                                    else
+                                    {
+                                        <a href="~/Home/GetServiceByUser" class="orangetext btn btn-default btn-block" style="border-radius:20px;">الخدمات التي قمت بطلبها</a>
+                                        <a href="~/Serves/Index2/@CurrentUser.Id" class="orangetext btn btn-default btn-block"  style="border-radius:20px;">الخدمات التي قمت بنشرها</a>
+                                        <a href="~/Home/GetServesByPublisher" class="orangetext btn btn-default btn-block"  style="border-radius:20px;">طلبات الخدمات التي قمت بنشرها</a>
+
+
+
+                                        <a href="~/Serves/Create" class="orangetext btn btn-default btn-block"  style="border-radius:20px;">نشر خدمة جديدة</a>
+                                        <a href="~/Account/EditProfile" class=" btn btn-primary btn-block"  style="border-radius:20px;">تعديل الحساب</a>
+
+                                    }
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <div>
+                            <div class="row">
+                                <div  class="col-lg-9" style="position:relative; right:40px; top:5px">
+                                    <p>
+                                        <a href="javascript:document.getElementById('logoff').submit()" class="btn btn-danger btn-block"  style="border-radius:20px;">تسجيل الخروج</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+
+
+
+
+
+
+
+            @*<li>
+                    @Html.ActionLink("مرحبا بك يا: "+User.Identity.GetUserName(),"Index","Manage")
+                </li>
+                <li>
+                    <a href="javascript:document.getElementById('logoff').submit()">تسجيل الخروج</a>
+                </li>*@
+        </ul>
+
+
+
+    }
+
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a href="~/Account/Login">
+
+                تسجيل الدخول
+            </a>
+        </li>
+
+        <li>
+            <a href="~/Account/Register">
+
+                اشتراك
+            </a>
+        </li>
+    </ul>
+}

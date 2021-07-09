@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Apply";
+    Layout = "~/Views/Shared/_MainLayoutPage.cshtml";
+}
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <div>
+            @{
+                if (ViewBag.Result_Success != null)
+                {
+                    <h3 class="alert alert-success">@ViewBag.Result_Success</h3>
+                }
+                else if (ViewBag.Result_Error != null)
+                {
+                    <h3 class="alert alert-danger">@ViewBag.Result_Error</h3>
+                }
+            }
+
+        </div>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("الرسالة", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("Message", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessage("Message", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("طريقة التواصل", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("tmp", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessage("tmp", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="تأكيد" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("العودة إلى الرئيسية", "Index","", htmlAttributes:new { @class="btn btn-default"})
+</div>
